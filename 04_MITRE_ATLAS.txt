@@ -1,0 +1,9 @@
+# MITRE ATLAS
+
+MITRE ATLAS documents AI attack tactics and techniques.
+
+Tactic (Why): Gain model access, steal data, poison the model.
+Technique (How): Prompt Injection, Jailbreak, Data Poisoning, Model Extraction.
+
+Attack Chain:
+Reconnaissance -> Resource Development -> Initial Access -> ML Attack Staging -> Model Access -> Execution -> Persistence -> Defense Evasion -> Discovery -> Collection -> Exfiltration -> Impact.

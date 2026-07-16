@@ -1,0 +1,16 @@
+# AI Red Teaming & LLM Basics
+
+Traditional penetration testing mainly identifies software vulnerabilities. AI Red Teaming goes further by evaluating how AI models behave under adversarial conditions. Instead of only finding bugs, it tests whether AI systems can be manipulated through jailbreaks, prompt injections, hallucinations, data leakage, and other unsafe behaviors.
+
+AI/ML Lifecycle:
+1. Data Collection - Scraping, Labeling, Data Curation. Attacks: Data Poisoning, Label Flipping, Supply Chain Compromise.
+2. Training - Pre-training, Fine-tuning, RLHF. Attacks: Backdoors, Trojan Triggers, Poisoned Datasets.
+3. Evaluation - Benchmark Testing, Safety Validation. Attacks: Evaluation Bypass, Coverage Gaps.
+4. Deployment - APIs, Edge Devices, Embedded Systems. Attacks: Model Theft, API Abuse.
+5. Inference - User Queries, Model Responses. Attacks: Prompt Injection, Jailbreaks, Data Exfiltration.
+
+LLMs are AI models trained on massive amounts of text. Examples: GPT, Claude, Gemini, Llama.
+
+Tokens: LLMs process tokens instead of words. Every request has input and output tokens.
+
+Hallucination: Confidently generated but incorrect information.

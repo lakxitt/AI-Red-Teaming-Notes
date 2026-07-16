@@ -1,0 +1,6 @@
+# NIST AI Risk Management Framework
+
+Govern: Policies, roles, responsibilities.
+Map: Identify assets, stakeholders, business context.
+Measure: Secure Testing, AI Red Teaming, Vulnerability Assessment.
+Manage: Apply fixes, monitor systems, patch vulnerabilities, continuous improvement.

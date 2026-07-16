@@ -1,0 +1,11 @@
+# C2C Methodology
+
+Connect: Identify targets, architecture, guardrails, vulnerabilities.
+Chain: Prompt Injection -> Prompt Leakage -> API Discovery -> Jailbreak -> Tool Abuse -> Database Access.
+Compromise: Access databases, steal information, hijack AI agents, bypass safety mechanisms.
+
+Example:
+Connect: Inspect chatbot, RAG knowledge base, extract system prompt, discover APIs.
+Chain: Role-play Prompt Injection -> System Prompt Extraction -> Internal API Discovery.
+Compromise: System prompt leaked, internal DB accessed, user records exposed, login security bypassed.
+Attack Flow: Recon -> Prompt Injection -> Guardrail Bypass -> Prompt Extraction -> API Discovery -> Database Access -> Data Exfiltration.
