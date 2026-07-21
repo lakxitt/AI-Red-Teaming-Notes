@@ -22,29 +22,9 @@ A collection of my study notes while learning **AI Security, LLM Red Teaming, RA
 - C2C Methodology (Connect → Chain → Compromise)
 - Prompt Injection
 - AI Pentesting Basics
+- TYPES OF PROMT INJECTION ATTACKS
 
 ---
-
-## 📂 Repository Structure
-
-```text
-AI-Red-Teaming-Notes/
-│
-├── README.md
-│
-├── Notes/
-│   ├── 01_AI_Red_Teaming_and_LLM_Basics.md
-│   ├── 02_RAG_Embeddings_Vector_Databases.md
-│   ├── 03_OWASP_Top_10_for_LLM_Applications.md
-│   ├── 04_MITRE_ATLAS.md
-│   ├── 05_NIST_AI_Risk_Management_Framework.md
-│   └── 06_C2C_Methodology.md
-│
-└── Assets/
-    └── images/
-```
-
-> **Note:** If you're uploading the notes in Markdown format, use the `.md` extension instead of `.docx`.
 
 ---
 
