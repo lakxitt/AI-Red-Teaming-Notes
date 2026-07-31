@@ -6,7 +6,7 @@ A collection of my study notes while learning **AI Security, LLM Red Teaming, RA
 
 ---
 
-## 📖 Topics Covered
+## 📖 Topics Covered -
 
 - AI Red Teaming
 - AI/ML Lifecycle Security
