@@ -25,7 +25,7 @@ A collection of my study notes while learning **AI Security, LLM Red Teaming, RA
 - TYPES OF PROMT INJECTION ATTACKS
 
 ---
-
+---
 ---
 
 ## 🎯 Purpose
