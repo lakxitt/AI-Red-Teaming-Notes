@@ -45,7 +45,7 @@ These functions are continuous and repeated throughout the AI system's lifecycle
 
 ---
 
-# 1. Govern
+# 1. Govern -
 
 ## Definition
 
