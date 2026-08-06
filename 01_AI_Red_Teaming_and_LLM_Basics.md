@@ -1,4 +1,4 @@
-# 🛡️ AI Red Teaming
+# 🛡️ AI Red Teaming - 
 
 ## 📌 What is AI Red Teaming?
 
