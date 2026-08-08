@@ -7,7 +7,7 @@
 The **NIST AI Risk Management Framework (AI RMF)** is a framework developed by the **National Institute of Standards and Technology (NIST)** to help organizations **identify, assess, manage, and reduce risks associated with Artificial Intelligence (AI) systems**.
 
 Unlike traditional cybersecurity frameworks that focus only on technical vulnerabilities, the AI RMF addresses risks related to **security, privacy, fairness, transparency, reliability, and accountability** throughout the AI lifecycle.
-
+   
 
 > **Purpose:** Build AI systems that are **Trustworthy, Secure, Reliable, and Responsible.**
 
