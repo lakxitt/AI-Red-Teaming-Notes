@@ -1,6 +1,6 @@
 # 📘 Retrieval-Augmented Generation (RAG)
 
----
+--- 
 
 ## Definition
 
