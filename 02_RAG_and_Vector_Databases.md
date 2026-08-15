@@ -28,7 +28,7 @@ LLMs have several limitations:
 RAG overcomes these limitations by retrieving information from external sources before generating a response.
 
 ---
-
+ 
 # RAG Architecture
 
 ```text
