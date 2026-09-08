@@ -2,7 +2,7 @@
 
 ---
 
-# What is MITRE ATLAS?
+# What is MITRE ATLAS?    
 
 **MITRE ATLAS (Adversarial Threat Landscape for Artificial Intelligence Systems)** is a cybersecurity framework that documents attack tactics and techniques targeting AI and Machine Learning (AI/ML) systems.
 
