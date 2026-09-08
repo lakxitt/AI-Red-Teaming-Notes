@@ -2,7 +2,7 @@
 
 ---
 
-# What is C2C Methodology?
+# What is C2C Methodology? 
 
 The **C2C Methodology (Connect → Chain → Compromise)** is a structured approach used in **AI Red Teaming** to test the security of AI systems.
 
